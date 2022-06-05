@@ -1,0 +1,40 @@
+{
+    "notes": [
+        {
+            "noteText": "Bugs:\n-Es scheint beim Anfliegen und zurückfliegen die falsche Anim abgespielt zu  werden\n- Sunnyland Addon Files\n- Hier auch noch 2 mal draufspringen, damit der Eagle deaktiviert wird. Anims sind im Addon enthalten. Halt beim ersten mal noch blinken und so.\n",
+            "show": false,
+            "typeName": "UnityEngine.GameObject",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-2-405e92314cb4cd24997443959fe2c910-3113198580246377551-0"
+        },
+        {
+            "noteText": "",
+            "show": false,
+            "typeName": "UnityEngine.GameObject",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-2-405e92314cb4cd24997443959fe2c910-519420028-0"
+        },
+        {
+            "noteText": "- Main Camera fertig\n- Sound Manager fertig\n- Background fertig\n\n- Enemy Frog geht jetzt. Bug beseitigt.  \n- Opossum überprüft. Geht auch\n- Eagle verbessert. Auch OK\n\n- Levelmanager ?\n",
+            "show": true,
+            "typeName": "UnityEngine.GameObject",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-2-405e92314cb4cd24997443959fe2c910-891371459-0"
+        },
+        {
+            "noteText": "- Beim Tod, wird die Energie nicht richtig zurück gesetzt.\n- Beim Neustart werden die Punkte nicht zurück gesetzt.\n",
+            "show": true,
+            "typeName": "UnityEngine.GameObject",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-2-405e92314cb4cd24997443959fe2c910-291946381-0"
+        },
+        {
+            "noteText": "Lifes und Points (erledigt) als globale Variablen umstellen. Dann am Ende eine Übersicht.",
+            "show": true,
+            "typeName": "UnityEngine.GameObject",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-2-405e92314cb4cd24997443959fe2c910-652829175-0"
+        },
+        {
+            "noteText": "-Ground Trigger nimmt -2 Lifes?",
+            "show": true,
+            "typeName": "UnityEngine.GameObject",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-2-4506f0818d29005408f3fc9144a5dc29-291946381-0"
+        }
+    ]
+}
