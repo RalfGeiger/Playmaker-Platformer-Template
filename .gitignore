@@ -72,9 +72,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Playmaker (so repo can be shared)
-/Playmaker-Platformer-Template/Assets/PlayMaker/
-/Playmaker-Platformer-Template/Assets/Plugins/PlayMaker/
-/Playmaker-Platformer-Template/Assets/Gizmos/
+/PM-Platformer/Assets/PlayMaker/
+/PM-Platformer/Assets/Plugins/PlayMaker/
+/PM-Platformer/Assets/Gizmos/
 
 _Temp/
 
