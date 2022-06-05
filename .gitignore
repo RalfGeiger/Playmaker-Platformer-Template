@@ -2,12 +2,16 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/ 
+
+# MemoryCaptures can get excessive in size.
+# They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
@@ -47,14 +51,35 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+# *.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
 
 # Builds
 *.apk
-*.unitypackage
+*.aab
+
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+# Packed Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Temporary auto-generated Android Asset
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Playmaker (so repo can be shared)
+/Playmaker-Platformer-Template/Assets/PlayMaker/
+/Playmaker-Platformer-Template/Assets/Plugins/PlayMaker/
+/Playmaker-Platformer-Template/Assets/Gizmos/
+
+_Temp/
+
+# Export Folders
+/export/pages/
+/export/demos/
+/downloads/*
 
