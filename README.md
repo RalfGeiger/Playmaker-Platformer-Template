@@ -6,6 +6,7 @@ A template for 2D platformer games. Written in Unity and Playmaker
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [The project status] (#The project status)
+
 ## General info
 This project was born from an idea to create a 2D Jump n Run template, which offers the same features as the Corgi Engine.  
 
