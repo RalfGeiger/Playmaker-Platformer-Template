@@ -1,7 +1,7 @@
 # Playmaker-Platformer-Template
 A template for 2D platformer games. Written in Unity and Playmaker
 
-![Screenshot](https://github.com/RalfGeiger/Playmaker-Platformer-Template/Playmaker-Platformer-Template.PNG)
+![Screenshot](https://github.com/RalfGeiger/Playmaker-Platformer-Template/blob/main/Playmaker-Platformer-Template.PNG)
 
 ## Table of contents
 * [General info](#general-info)
