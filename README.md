@@ -5,7 +5,7 @@ A template for 2D platformer games. Written in Unity and Playmaker
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-
+* [The project status] (#The project status)
 ## General info
 This project was born from an idea to create a 2D Jump n Run template, which offers the same features as the Corgi Engine.  
 
@@ -44,3 +44,6 @@ Project is created with:
 	
 ## Setup
 A new Unity project from version 2021+ with URP shader is required. Also Playmaker version 1.9.5+ is required to run. More info about layers, variables, tags etc. in the enclosed installation guide (in work).
+
+## The project status
+The template is under development. Many features are in planning. One thought would be to develop the template in the direction of Turrican etc..  
