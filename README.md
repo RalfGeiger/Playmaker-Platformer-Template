@@ -12,6 +12,10 @@ This project was born from an idea to write a 2D Jump n Run template with the sa
 The project was realized with Unity and Playmaker. Please note that Playmaker is a Visual Scripting and is not free, but it is worth to buy it. 
 
 The following features are released:
+* Update the Project to Unity 2021
+* Using new Input-System
+* Using URP-Render-Pipeline
+
 * Paralax Scrolling
 * Control of the player
 * Player Crouch
@@ -20,11 +24,12 @@ The following features are released:
 * Player jumps on the heads of enemies to kill them (Mario style)
 * 3 different enemies with AI
 * 2 collectibles
-* Movable platforms
+* Movable, rotate, breakable and invisible platforms
 * Switches and doors
 * Bouncing pads
 * Stompers
 * Checkpoints
+* Swinging blades
 * Showing screen
 * ExtraLife
 
