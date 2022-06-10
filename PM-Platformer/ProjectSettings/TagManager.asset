@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Ladder
+  - Ladder-Top
+  - Ladder-Bottom
+  - Ladder-Top-End
+  - Background-Far
+  - Background-Middle
+  - Background-Front
+  - LevelManager
+  - Enemy
+  - Platform
+  - Gem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Layer-Player
+  - Layer-Ground
+  - Layer-Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background-Far
+    uniqueID: 1325878965
+    locked: 0
+  - name: Background-Middle
+    uniqueID: 2535558589
+    locked: 0
+  - name: Background-Front
+    uniqueID: 3772063603
+    locked: 0
+  - name: Platform-Hidden
+    uniqueID: 1343043593
+    locked: 0
+  - name: Platform-Middle
+    uniqueID: 946061571
+    locked: 0
+  - name: Items
+    uniqueID: 1746289269
+    locked: 0
+  - name: Enemies
+    uniqueID: 3191243635
+    locked: 0
+  - name: Player
+    uniqueID: 3485070265
+    locked: 0
+  - name: FX
+    uniqueID: 2209931711
+    locked: 0
+  - name: Platform-Front
+    uniqueID: 899815735
+    locked: 0
+  - name: UI
+    uniqueID: 1810062217
+    locked: 0
