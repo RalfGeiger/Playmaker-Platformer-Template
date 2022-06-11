@@ -3,6 +3,11 @@ A template for 2D platformer games. Written in Unity and Playmaker
 
 ![Screenshot](https://github.com/RalfGeiger/Playmaker-Platformer-Template/blob/main/Playmaker-Platformer-Template.PNG)
 
+## Problems  
+It turns out that there are problems with the archive provided. Some FSMs are swallowed up, etc. Therefore I offer the complete project for download until I have solved the problem. Only Playmaker should be installed. Please excuse the procedure. 
+
+https://www.dropbox.com/sh/ly860x7d0an8f9w/AAA30oXfaO-GVmjYDWeJlTGua?dl=0
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -46,7 +51,7 @@ Project is created with:
 * Some other Assets (See the attached description for more information, in work)
 	
 ## Setup
-A new Unity project from version 2021+ with URP shader is required. Also Playmaker version 1.9.5+ is required to run. More info about layers, variables, tags etc. in the enclosed installation guide (in work).
+A new Unity project from version 2021+ with URP is required. Also Playmaker version 1.9.5+ is required to run. More info about layers, variables, tags etc. in the enclosed installation guide (in work).
 
 ## The project status
 The template is under development. Many features are in planning. Idea is to extend the project to create a Turrican clone. 
