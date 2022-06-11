@@ -4,7 +4,7 @@ A template for 2D platformer games. Written in Unity and Playmaker
 ![Screenshot](https://github.com/RalfGeiger/Playmaker-Platformer-Template/blob/main/Playmaker-Platformer-Template.PNG)
 
 ## Problems  
-It turns out that there are problems with the archive provided. Some FSMs are swallowed up, etc. Therefore I offer the complete project for download. Only Playmaker should be installed. Please excuse the procedure. 
+It turns out that there are problems with the archive provided. Some FSMs are swallowed up, etc. Therefore I offer the complete project for download until I have solved the problem. Only Playmaker should be installed. Please excuse the procedure. 
 
 
 ## Table of contents
