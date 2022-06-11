@@ -47,11 +47,11 @@ More features are planned (a Turrican clone ...)
 ## Technologies
 Project is created with:
 * Unity 2021.3.0f1 
-* Playmaker 1.9.5.f3
+* Playmaker 1.9.4.f2
 * Some other Assets (See the attached description for more information, in work)
 	
 ## Setup
-A new Unity project from version 2021+ with URP is required. Also Playmaker version 1.9.5+ is required to run. More info about layers, variables, tags etc. in the enclosed installation guide (in work).
+A new Unity project from version 2021+ with URP is required. Also Playmaker version 1.9.4+ is required to run. More info about layers, variables, tags etc. in the enclosed installation guide (in work).
 
 ## The project status
 The template is under development. Many features are in planning. Idea is to extend the project to create a Turrican clone. 
